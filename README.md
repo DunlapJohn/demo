@@ -1,16 +1,20 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-uber-nyc-pickups/main)
+# Demo.
+Before you do anything check your python versions in terminal.
 
-# Streamlit Demo: Uber Pickups in New York City
-A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github.com/streamlit/demo-uber-nyc-pickups/blob/main/streamlit_app.py) to interactively visualize Uber pickups in New York City.
+'''
+python --version
+python3 -version
+pip --version
+'''
+Clone repo in VSCode 
+Open VSCode termial
+pip or pip3 install all your imports (at the top of the app.py)
 
-![Final App Animation](https://github.com/streamlit/demo-uber-nyc-pickups/raw/main/uber_demo.png "Uber demo")
-
-## Run this demo locally
+Then to run streamlit just do... 
 ```
 pip install --upgrade streamlit
-streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/main/streamlit_app.py
+
+streamlit run app.py
 ```
 
-### Questions? Comments?
 
-Please ask in the [Streamlit community](https://discuss.streamlit.io).
