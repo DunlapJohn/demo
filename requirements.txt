@@ -1,3 +1,6 @@
-streamlit==1.7
-
-click==8 
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.2
+pandas_datareader==0.10.0
+streamlit==1.8.1
+yfinance==0.1.70
