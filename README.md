@@ -8,7 +8,9 @@ pip --version
 ```
 
 Clone repo in VSCode 
+
 Open VSCode termial
+
 pip or pip3 install all your imports (at the top of the app.py)
 
 
