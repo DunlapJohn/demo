@@ -1,6 +1,8 @@
 # Demo.
 Before you do anything check your python versions in terminal.
 
+You want at least 3.9._
+
 ```
 python --version
 python3 -version
